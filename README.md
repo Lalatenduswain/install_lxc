@@ -1,4 +1,5 @@
-# This script automates the installation of LXC (Linux Containers) based on the detected operating system. It checks for the OS type, verifies sudo permissions, and installs the necessary packages to set up LXC on your system.
+# This script automates the installation of LXC (Linux Containers)
+## This script automates the installation of LXC (Linux Containers) based on the detected operating system. It checks for the OS type, verifies sudo permissions, and installs the necessary packages to set up LXC on your system.
 
 ## Table of Contents
 
